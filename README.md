@@ -1,5 +1,4 @@
-# tykocak.github.io
-About Me - IT105 Project
+# About Me
 <html>
 <h1> Hello, My name is Ty Kocak</h1>
 <body>My company's name is Kocak Performance Academy and </body>
